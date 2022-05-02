@@ -1,8 +1,8 @@
 # Olá, seja bem-vindo(a)! 😅
 
-### Me chamo Felippe, tenho 19 anos e estou estudando para me tornar um desenvolvedor front-end.
+### Me chamo Felippe, tenho 20 anos e estou estudando para me tornar um desenvolvedor front-end.
 
-- 👨‍🎓 Estou no terceiro semestre do curso de Análise e Desenvolvimento de Sistemas pela UAM;
+- 👨‍🎓 Estou no quinto e último semestre do curso de Análise e Desenvolvimento de Sistemas pela UAM;
 - 📚 Atualmente, estou aprimorando meus conhecimentos em HTML, CSS e JavaScript e dando meus primeiros passos com React e TypeScript;
 - 💻 Além das tecnologias citadas acima, também possuo conhecimento de versionamento de código com Git e GitHub e conhecimento em aplicações que me auxiliam no desenvolvimento, como: Adobe Photoshop, Adobe XD e Figma.
 
@@ -15,6 +15,4 @@
 
 <h3>📱 Você pode entrar em contato comigo pelos links abaixo: </h3>
 <a href="https://www.linkedin.com/in/fsvboas/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto: felippesantosvb@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
-
-![Snake animation](https://github.com/fsvboas/fsvboas/blob/output/github-contribution-grid-snake.svg)
+<a href="mailto: fsvboas.dev@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
