@@ -1,18 +1,48 @@
-# Olá, seja bem-vindo(a)! 😅
+<div align="center">
+<div>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=30&color=FFA004&center=true&vCenter=true&height=100&lines=Ol%C3%A1%2C+me+chamo+Felippe!;Desenvolvedor+front-end" alt="Typing SVG" /></a>
+</div>
 
-### Me chamo Felippe, tenho 20 anos e estou estudando para me tornar um desenvolvedor front-end.
+<div>
+<a href="https://fsvboas.vercel.app/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+</div>
 
-- 👨‍🎓 Estou no quinto e último semestre do curso de Análise e Desenvolvimento de Sistemas pela UAM;
-- 📚 Atualmente, estou aprimorando meus conhecimentos em HTML, CSS e JavaScript e dando meus primeiros passos com React e TypeScript;
-- 💻 Além das tecnologias citadas acima, também possuo conhecimento de versionamento de código com Git e GitHub e conhecimento em aplicações que me auxiliam no desenvolvimento, como: Adobe Photoshop, Adobe XD e Figma.
-
-### Um pouco mais sobre mim:
-- 🤓 Tenho uma certa facilidade de aprendizado para assuntos relacionados a tecnologia;
-- 🎯 Sou bastante determinado. Quando tenho alguma tarefa ou objetivo a ser cumprido, dou meu melhor e vou até o final;
-- 🎮 Por fim, algo mais pessoal: no meu tempo livre gosto bastante de jogar jogos online ou de assistir filmes de ação.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fsvboas&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-<h3>📱 Você pode entrar em contato comigo pelos links abaixo: </h3>
+<div>
 <a href="https://www.linkedin.com/in/fsvboas/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto: fsvboas.dev@gmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
+<a href="mailto: fsvboas.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</div>
+
+<hr/>
+
+ <table>
+  <tr>
+    <td align="center" width="115">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" width="70" />
+    </td>
+    <td align="center" width="115">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="TypeScript" width="70"  />
+    </td>
+    <td align="center" width="115">
+        <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" alt="Tailwind CSS" width="70" />
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center" width="115">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1024px-Windows_logo_-_2012.svg.png" alt="Windows" width="70" />
+    </td>
+    <td align="center" width="115">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Google_Chrome_icon_%28September_2014%29.svg/1024px-Google_Chrome_icon_%28September_2014%29.svg.png" alt="Chrome" width="70" />
+    </td>
+    <td align="center" width="115">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code" width="70"/>
+    </td>
+  </tr>
+</table>
+
+<hr/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=fsvboas&count_private=true&hide=stars,issues&theme=radical&show_icons=true&hide_rank=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsvboas&layout=compact&theme=radical" width="362.5"/>
+
+</div>
