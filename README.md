@@ -44,5 +44,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=fsvboas&count_private=true&hide=stars,issues&theme=radical&show_icons=true&hide_rank=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsvboas&layout=compact&theme=radical" width="362.5"/>
-
+<br>
+   <img align="center" width="150px" src="https://profile-counter.glitch.me/{fsvboas}/count.svg" />
 </div>
