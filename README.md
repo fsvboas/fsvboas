@@ -10,4 +10,4 @@
 
   ##
   
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="63" height="63" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="63" height="63" /><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="63" height="63" /></div>
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="63" height="63" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="63" height="63" /></div>
