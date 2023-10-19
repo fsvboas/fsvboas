@@ -11,9 +11,9 @@
   ##
   
 <div style="display: flex; align-items: flex-start;">
-  <img src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" alt="icon" width="48" height="48" />
-  <img src="https://www.svgrepo.com/show/374032/reactjs.svg" alt="icon" width="48" height="48" />
-  <img src="https://www.svgrepo.com/show/349540/typescript.svg" alt="icon" width="48" height="48" />
-  <img src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" alt="icon" width="48" height="48" />
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*elhu-42TzQEdsFjKDbQhhA.png" alt="icon" width="48" height="48" />
+  <img src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" alt="icon" width="40" height="40" />
+  <img src="https://www.svgrepo.com/show/374032/reactjs.svg" alt="icon" width="40" height="40" />
+  <img src="https://www.svgrepo.com/show/349540/typescript.svg" alt="icon" width="40" height="40" />
+  <img src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" alt="icon" width="40" height="40" />
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*elhu-42TzQEdsFjKDbQhhA.png" alt="icon" width="40" height="40" />
 </div>
