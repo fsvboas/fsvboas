@@ -11,7 +11,7 @@
   ##
   
 <div style="display: flex; align-items: flex-start;">
-  <img src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" alt="icon" width="40" height="40" />
+  <img src="https://www.svgrepo.com/show/378440/nextjs-fill.svg" alt="icon" width="40" height="40" />
   <img src="https://www.svgrepo.com/show/374032/reactjs.svg" alt="icon" width="40" height="40" />
   <img src="https://www.svgrepo.com/show/349540/typescript.svg" alt="icon" width="40" height="40" />
   <img src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" alt="icon" width="40" height="40" />
